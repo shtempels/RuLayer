@@ -1,3 +1,4 @@
+<img width="1200" height="720" alt="RuLayer  ·  v1 0 0 30 08 2026 7_28_38" src="https://github.com/user-attachments/assets/d6e3ed7a-4b85-483d-b4df-9023acbcfe8c" />
 # RuLayer
 
 Улучшения поверх русской локализации **Star Citizen**  

@@ -1,5 +1,4 @@
 <img width="1200" height="720" alt="RuLayer  ·  v1 2 5 20 09 2026 8_55_25" src="https://github.com/user-attachments/assets/f18bb4ed-168c-4e67-8811-74493293f279" />
-<img width="1200" height="720" alt="RuLayer  ·  v1 2 5 20 09 2026 8_55_14" src="https://github.com/user-attachments/assets/fa58b39b-4903-4fc6-8927-66669274f20f" />
 
 # RuLayer
 
@@ -29,3 +28,5 @@
 - Запрещено без согласия автора: выдавать программу за свою, перепродавать, публиковать изменённые версии под другим именем.
 - Данные QoL: [StarStrings](https://github.com/MrKraken/StarStrings). Перевод — отдельно.
 - Не связано с Cloud Imperium Games / RSI.
+
+<img width="1200" height="720" alt="RuLayer  ·  v1 2 5 20 09 2026 8_55_14" src="https://github.com/user-attachments/assets/fa58b39b-4903-4fc6-8927-66669274f20f" />

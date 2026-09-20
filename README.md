@@ -26,7 +26,6 @@
 - Исходный код не публикуется. Распространяется только готовая сборка.
 - Разрешено использовать RuLayer.exe для себя.
 - Запрещено без согласия автора: выдавать программу за свою, перепродавать, публиковать изменённые версии под другим именем.
-- Данные QoL: [StarStrings](https://github.com/MrKraken/StarStrings). Перевод — отдельно.
 - Не связано с Cloud Imperium Games / RSI.
 
 <img width="1200" height="720" alt="RuLayer  ·  v1 2 5 20 09 2026 8_55_14" src="https://github.com/user-attachments/assets/fa58b39b-4903-4fc6-8927-66669274f20f" />
